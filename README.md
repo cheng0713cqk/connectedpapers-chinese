@@ -1,1 +1,2 @@
 # connectedpapers-chinese
+将connectedpapers网站进行汉化
